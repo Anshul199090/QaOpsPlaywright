@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","20265","@WebTs Client app end 2 end for ZARA COAT 3","","2026-04-09","passed","2026-04-09","","ClientAppPO.spec.ts","",""
+"","27931","@WebTs Client app end 2 end for ADIDAS ORIGINAL","","2026-04-09","passed","2026-04-09","","ClientAppPO.spec.ts","",""
+"","16090","@UITs Client app end 2 end for new ZARA COAT 3","","2026-04-09","passed","2026-04-09","","ClientAppPO.spec.ts","",""
+"","24768","@Web Client app end 2 end for ZARA COAT 3","","2026-04-07","passed","2026-04-07","","ClientAppPO.spec.js","",""
+"","23626","@Web Client app end 2 end for ADIDAS ORIGINAL","","2026-04-07","passed","2026-04-07","","ClientAppPO.spec.js","",""
+"","22623","@UI Client app end 2 end for new ZARA COAT 3","","2026-04-07","passed","2026-04-07","","ClientAppPO.spec.js","",""
