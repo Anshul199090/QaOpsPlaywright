@@ -1,5 +1,5 @@
 import { Page, Locator } from "@playwright/test";
-//importing pa
+//importing page
 export class DashboardPage {
 
     page: Page;
